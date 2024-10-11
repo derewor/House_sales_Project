@@ -30,7 +30,7 @@ An investor who wants to join the business makes the right decision whether the 
 
 ## Screenshots
 
-![App Screenshot](https://github.com/derewor/House_sales_Project/commit/dda8207f69321ba49d825986c037ac3e3b633ea1)
+![App Screenshot](https://github.com/derewor/House_sales_Project/blob/main/document/house%20sale.png)
 ## Tools
 Google colab, pandas, numpy, sklearn.pipeline for auromating the process,sklearn.linear_model, sklearn.preprocessing, seaborn
 
