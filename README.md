@@ -28,6 +28,9 @@ Real Estates are one of the biggest investment sectors in USA. In this project, 
 ### Significance
 An investor who wants to join the business makes the right decision whether the time is appropriate or not based on the analysis. 
 
+## Screenshots
+
+![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/derewor/House_sales_Project/blob/main/document/Screenshot%202024-10-11%20at%2011.43.42.png))
 ## Tools
 Google colab, pandas, numpy, sklearn.pipeline for auromating the process,sklearn.linear_model, sklearn.preprocessing, seaborn
 
@@ -58,7 +61,5 @@ README:/ this file contains the brief description and guidline for the project c
 Considering a slow down in the housing marketing activity from 2014 to 2015, it is not advisable to invest right now. However, more data from additional years is required to make a solid analysis.
 
 
-## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
